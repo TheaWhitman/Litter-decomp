@@ -1,3 +1,3 @@
-Day,Litter
-X11,2,X
-X56,1,X
+Day,Rhizo,Litter
+X11,Day 2,Bulk,Litter
+X8,Day 2,Rhizosphere,Litter
