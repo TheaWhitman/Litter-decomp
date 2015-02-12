@@ -1,0 +1,3 @@
+Day,Litter
+X11,2,X
+X56,1,X
